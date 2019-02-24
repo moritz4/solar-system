@@ -1,2 +1,3 @@
 # solar-system
-solar system simulation in three.js
+
+This is a solar system simulation I made in Javascript.
